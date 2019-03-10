@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: MunitionsMaster
+## Notes: fucking notes
+## Version: 0.8
+## DefaultState: Enabled
+## SavedVariables: MunitionsMasterDB
+
+Templates.xml
+MunitionsMaster.lua
