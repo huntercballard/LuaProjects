@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: RepairMan
+## Notes: best notes
+## Version: 0.8
+## DefaultState: Enabled
+## SavedVariables: RepairManDB
+
+#Templates.xml
+RepairMan.lua
